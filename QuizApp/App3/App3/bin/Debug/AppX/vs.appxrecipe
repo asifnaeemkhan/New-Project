@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>FACULTY-46</Machine>
+    <WindowsUser>asif</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>e5ee0322-b92e-4f9e-9c90-c92ef401da0d</PackageIdentityName>
+    <PackageIdentityPublisher>CN=asif</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\asif\Desktop\App3\App3\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>80E600DAD545E644B5DC4C7C952BFA0C6266B64B50A339191D9AEF1532A4AB3A</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>e5ee0322-b92e-4f9e-9c90-c92ef401da0d_1.0.0.0_neutral__vb7c1cndprk6c</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>e5ee0322-b92e-4f9e-9c90-c92ef401da0d_vb7c1cndprk6c!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>e5ee0322-b92e-4f9e-9c90-c92ef401da0d</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=asif</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\asif\Desktop\App3\App3\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-07-22T09:20:59.368</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\asif\Desktop\App3\App3\bin\Debug\App3.exe">
+      <PackagePath>App3.exe</PackagePath>
+      <Modified>2019-07-31T09:14:29.960</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asif\Desktop\App3\App3\Assets\76575676576.png">
+      <PackagePath>Assets\76575676576.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-06-18T08:32:20.097</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asif\Desktop\App3\App3\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T17:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asif\Desktop\App3\App3\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T17:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asif\Desktop\App3\App3\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <Modified>2015-07-06T17:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asif\Desktop\App3\App3\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T17:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asif\Desktop\App3\App3\Assets\dark-blue-background-wallpaper-25.jpg">
+      <PackagePath>Assets\dark-blue-background-wallpaper-25.jpg</PackagePath>
+      <Modified>2019-06-18T08:33:38.015</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asif\Desktop\App3\App3\Assets\download %281%29.jfif">
+      <PackagePath>Assets\download %281%29.jfif</PackagePath>
+      <Modified>2019-06-18T08:31:56.759</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asif\Desktop\App3\App3\Assets\download.jfif">
+      <PackagePath>Assets\download.jfif</PackagePath>
+      <Modified>2019-06-18T08:31:07.971</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asif\Desktop\App3\App3\bin\Debug\App3.xr.xml">
+      <PackagePath>App3.xr.xml</PackagePath>
+      <Modified>2019-07-22T09:20:33.117</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asif\Desktop\App3\App3\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2019-07-22T09:20:56.618</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asif\Desktop\App3\App3\bin\Debug\BlankPage2.xbf">
+      <PackagePath>BlankPage2.xbf</PackagePath>
+      <Modified>2019-07-22T09:20:56.633</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asif\Desktop\App3\App3\bin\Debug\BlankPage3.xbf">
+      <PackagePath>BlankPage3.xbf</PackagePath>
+      <Modified>2019-07-22T09:20:56.649</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asif\Desktop\App3\App3\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2019-07-22T09:20:56.665</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asif\Desktop\App3\App3\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-07-22T09:21:32.578</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

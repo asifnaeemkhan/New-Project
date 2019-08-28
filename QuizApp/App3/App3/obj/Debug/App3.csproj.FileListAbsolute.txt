@@ -1,0 +1,126 @@
+c:\users\asif\documents\visual studio 2015\Projects\App3\App3\bin\Debug\App.xbf
+c:\users\asif\documents\visual studio 2015\Projects\App3\App3\bin\Debug\MainPage.xbf
+c:\users\asif\documents\visual studio 2015\Projects\App3\App3\bin\Debug\App3.xr.xml
+c:\users\asif\documents\visual studio 2015\Projects\App3\App3\bin\Debug\App3.exe
+c:\users\asif\documents\visual studio 2015\Projects\App3\App3\bin\Debug\App3.pdb
+c:\users\asif\documents\visual studio 2015\Projects\App3\App3\bin\Debug\resources.pri
+c:\users\asif\documents\visual studio 2015\Projects\App3\App3\bin\Debug\AppxManifest.xml
+c:\users\asif\documents\visual studio 2015\Projects\App3\App3\obj\Debug\App.g.i.cs
+c:\users\asif\documents\visual studio 2015\Projects\App3\App3\obj\Debug\App.g.cs
+c:\users\asif\documents\visual studio 2015\Projects\App3\App3\obj\Debug\MainPage.g.i.cs
+c:\users\asif\documents\visual studio 2015\Projects\App3\App3\obj\Debug\MainPage.g.cs
+c:\users\asif\documents\visual studio 2015\Projects\App3\App3\obj\Debug\XamlTypeInfo.g.cs
+c:\users\asif\documents\visual studio 2015\Projects\App3\App3\obj\Debug\App.xaml
+c:\users\asif\documents\visual studio 2015\Projects\App3\App3\obj\Debug\App.xbf
+c:\users\asif\documents\visual studio 2015\Projects\App3\App3\obj\Debug\XamlSaveStateFile.xml
+c:\users\asif\documents\visual studio 2015\Projects\App3\App3\obj\Debug\MainPage.xaml
+c:\users\asif\documents\visual studio 2015\Projects\App3\App3\obj\Debug\MainPage.xbf
+c:\users\asif\documents\visual studio 2015\Projects\App3\App3\obj\Debug\App3.exe
+c:\users\asif\documents\visual studio 2015\Projects\App3\App3\obj\Debug\App3.pdb
+c:\users\asif\documents\visual studio 2015\Projects\App3\App3\obj\Debug\priconfig.xml
+c:\users\asif\documents\visual studio 2015\Projects\App3\App3\obj\Debug\priconfig.xml.intermediate
+c:\users\asif\documents\visual studio 2015\Projects\App3\App3\obj\Debug\layout.resfiles
+c:\users\asif\documents\visual studio 2015\Projects\App3\App3\obj\Debug\layout.resfiles.intermediate
+c:\users\asif\documents\visual studio 2015\Projects\App3\App3\obj\Debug\resources.resfiles
+c:\users\asif\documents\visual studio 2015\Projects\App3\App3\obj\Debug\resources.resfiles.intermediate
+c:\users\asif\documents\visual studio 2015\Projects\App3\App3\obj\Debug\pri.resfiles
+c:\users\asif\documents\visual studio 2015\Projects\App3\App3\obj\Debug\pri.resfiles.intermediate
+c:\users\asif\documents\visual studio 2015\Projects\App3\App3\obj\Debug\qualifiers.txt
+c:\users\asif\documents\visual studio 2015\Projects\App3\App3\obj\Debug\qualifiers.txt.intermediate
+c:\users\asif\documents\visual studio 2015\Projects\App3\App3\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\asif\documents\visual studio 2015\Projects\App3\App3\obj\Debug\ProjectArchitectures.txt
+c:\users\asif\documents\visual studio 2015\Projects\App3\App3\bin\Debug\App3.build.appxrecipe
+c:\users\asif\documents\visual studio 2015\Projects\App3\App3\bin\Debug\BlankPage2.xbf
+c:\users\asif\documents\visual studio 2015\Projects\App3\App3\bin\Debug\BlankPage3.xbf
+c:\users\asif\documents\visual studio 2015\Projects\App3\App3\obj\Debug\BlankPage2.g.i.cs
+c:\users\asif\documents\visual studio 2015\Projects\App3\App3\obj\Debug\BlankPage2.g.cs
+c:\users\asif\documents\visual studio 2015\Projects\App3\App3\obj\Debug\BlankPage3.g.i.cs
+c:\users\asif\documents\visual studio 2015\Projects\App3\App3\obj\Debug\BlankPage3.g.cs
+c:\users\asif\documents\visual studio 2015\Projects\App3\App3\obj\Debug\BlankPage3.xaml
+c:\users\asif\documents\visual studio 2015\Projects\App3\App3\obj\Debug\BlankPage3.xbf
+c:\users\asif\documents\visual studio 2015\Projects\App3\App3\obj\Debug\BlankPage2.xaml
+c:\users\asif\documents\visual studio 2015\Projects\App3\App3\obj\Debug\BlankPage2.xbf
+\\server\Faculty\Muhammad Asif\1712B1\Windows Store App\App3\App3\obj\Debug\App.g.i.cs
+\\server\Faculty\Muhammad Asif\1712B1\Windows Store App\App3\App3\obj\Debug\App.g.cs
+\\server\Faculty\Muhammad Asif\1712B1\Windows Store App\App3\App3\obj\Debug\BlankPage2.g.i.cs
+\\server\Faculty\Muhammad Asif\1712B1\Windows Store App\App3\App3\obj\Debug\BlankPage2.g.cs
+\\server\Faculty\Muhammad Asif\1712B1\Windows Store App\App3\App3\obj\Debug\BlankPage3.g.i.cs
+\\server\Faculty\Muhammad Asif\1712B1\Windows Store App\App3\App3\obj\Debug\BlankPage3.g.cs
+\\server\Faculty\Muhammad Asif\1712B1\Windows Store App\App3\App3\obj\Debug\MainPage.g.i.cs
+\\server\Faculty\Muhammad Asif\1712B1\Windows Store App\App3\App3\obj\Debug\MainPage.g.cs
+\\server\Faculty\Muhammad Asif\1712B1\Windows Store App\App3\App3\obj\Debug\XamlTypeInfo.g.cs
+\\server\Faculty\Muhammad Asif\1712B1\Windows Store App\App3\App3\obj\Debug\App.xaml
+\\server\Faculty\Muhammad Asif\1712B1\Windows Store App\App3\App3\obj\Debug\BlankPage2.xaml
+\\server\Faculty\Muhammad Asif\1712B1\Windows Store App\App3\App3\obj\Debug\BlankPage3.xaml
+\\server\Faculty\Muhammad Asif\1712B1\Windows Store App\App3\App3\obj\Debug\MainPage.xaml
+\\server\Faculty\Muhammad Asif\1712B1\Windows Store App\App3\App3\obj\Debug\App.xbf
+\\server\Faculty\Muhammad Asif\1712B1\Windows Store App\App3\App3\obj\Debug\BlankPage2.xbf
+\\server\Faculty\Muhammad Asif\1712B1\Windows Store App\App3\App3\obj\Debug\BlankPage3.xbf
+\\server\Faculty\Muhammad Asif\1712B1\Windows Store App\App3\App3\obj\Debug\MainPage.xbf
+\\server\Faculty\Muhammad Asif\1712B1\Windows Store App\App3\App3\obj\Debug\XamlSaveStateFile.xml
+\\server\Faculty\Muhammad Asif\1712B1\Windows Store App\App3\App3\obj\Debug\App3.exe
+\\server\Faculty\Muhammad Asif\1712B1\Windows Store App\App3\App3\obj\Debug\App3.pdb
+\\server\Faculty\Muhammad Asif\1712B1\Windows Store App\App3\App3\bin\Debug\App.xbf
+\\server\Faculty\Muhammad Asif\1712B1\Windows Store App\App3\App3\bin\Debug\BlankPage2.xbf
+\\server\Faculty\Muhammad Asif\1712B1\Windows Store App\App3\App3\bin\Debug\BlankPage3.xbf
+\\server\Faculty\Muhammad Asif\1712B1\Windows Store App\App3\App3\bin\Debug\MainPage.xbf
+\\server\Faculty\Muhammad Asif\1712B1\Windows Store App\App3\App3\bin\Debug\App3.xr.xml
+\\server\Faculty\Muhammad Asif\1712B1\Windows Store App\App3\App3\bin\Debug\App3.exe
+\\server\Faculty\Muhammad Asif\1712B1\Windows Store App\App3\App3\bin\Debug\App3.pdb
+\\server\Faculty\Muhammad Asif\1712B1\Windows Store App\App3\App3\bin\Debug\resources.pri
+\\server\Faculty\Muhammad Asif\1712B1\Windows Store App\App3\App3\bin\Debug\AppxManifest.xml
+\\server\Faculty\Muhammad Asif\1712B1\Windows Store App\App3\App3\bin\Debug\App3.build.appxrecipe
+\\server\Faculty\Muhammad Asif\1712B1\Windows Store App\App3\App3\obj\Debug\priconfig.xml
+\\server\Faculty\Muhammad Asif\1712B1\Windows Store App\App3\App3\obj\Debug\priconfig.xml.intermediate
+\\server\Faculty\Muhammad Asif\1712B1\Windows Store App\App3\App3\obj\Debug\layout.resfiles
+\\server\Faculty\Muhammad Asif\1712B1\Windows Store App\App3\App3\obj\Debug\layout.resfiles.intermediate
+\\server\Faculty\Muhammad Asif\1712B1\Windows Store App\App3\App3\obj\Debug\resources.resfiles
+\\server\Faculty\Muhammad Asif\1712B1\Windows Store App\App3\App3\obj\Debug\resources.resfiles.intermediate
+\\server\Faculty\Muhammad Asif\1712B1\Windows Store App\App3\App3\obj\Debug\pri.resfiles
+\\server\Faculty\Muhammad Asif\1712B1\Windows Store App\App3\App3\obj\Debug\pri.resfiles.intermediate
+\\server\Faculty\Muhammad Asif\1712B1\Windows Store App\App3\App3\obj\Debug\qualifiers.txt
+\\server\Faculty\Muhammad Asif\1712B1\Windows Store App\App3\App3\obj\Debug\qualifiers.txt.intermediate
+\\server\Faculty\Muhammad Asif\1712B1\Windows Store App\App3\App3\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+\\server\Faculty\Muhammad Asif\1712B1\Windows Store App\App3\App3\obj\Debug\ProjectArchitectures.txt
+C:\Users\asif\Desktop\App3\App3\bin\Debug\App.xbf
+C:\Users\asif\Desktop\App3\App3\bin\Debug\BlankPage2.xbf
+C:\Users\asif\Desktop\App3\App3\bin\Debug\BlankPage3.xbf
+C:\Users\asif\Desktop\App3\App3\bin\Debug\MainPage.xbf
+C:\Users\asif\Desktop\App3\App3\bin\Debug\App3.xr.xml
+C:\Users\asif\Desktop\App3\App3\bin\Debug\App3.exe
+C:\Users\asif\Desktop\App3\App3\bin\Debug\App3.pdb
+C:\Users\asif\Desktop\App3\App3\bin\Debug\resources.pri
+C:\Users\asif\Desktop\App3\App3\bin\Debug\AppxManifest.xml
+C:\Users\asif\Desktop\App3\App3\bin\Debug\App3.build.appxrecipe
+C:\Users\asif\Desktop\App3\App3\obj\Debug\App.g.i.cs
+C:\Users\asif\Desktop\App3\App3\obj\Debug\App.g.cs
+C:\Users\asif\Desktop\App3\App3\obj\Debug\BlankPage2.g.i.cs
+C:\Users\asif\Desktop\App3\App3\obj\Debug\BlankPage2.g.cs
+C:\Users\asif\Desktop\App3\App3\obj\Debug\BlankPage3.g.i.cs
+C:\Users\asif\Desktop\App3\App3\obj\Debug\BlankPage3.g.cs
+C:\Users\asif\Desktop\App3\App3\obj\Debug\MainPage.g.i.cs
+C:\Users\asif\Desktop\App3\App3\obj\Debug\MainPage.g.cs
+C:\Users\asif\Desktop\App3\App3\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\asif\Desktop\App3\App3\obj\Debug\App.xaml
+C:\Users\asif\Desktop\App3\App3\obj\Debug\BlankPage2.xaml
+C:\Users\asif\Desktop\App3\App3\obj\Debug\BlankPage3.xaml
+C:\Users\asif\Desktop\App3\App3\obj\Debug\MainPage.xaml
+C:\Users\asif\Desktop\App3\App3\obj\Debug\App.xbf
+C:\Users\asif\Desktop\App3\App3\obj\Debug\BlankPage2.xbf
+C:\Users\asif\Desktop\App3\App3\obj\Debug\BlankPage3.xbf
+C:\Users\asif\Desktop\App3\App3\obj\Debug\MainPage.xbf
+C:\Users\asif\Desktop\App3\App3\obj\Debug\XamlSaveStateFile.xml
+C:\Users\asif\Desktop\App3\App3\obj\Debug\App3.exe
+C:\Users\asif\Desktop\App3\App3\obj\Debug\App3.pdb
+C:\Users\asif\Desktop\App3\App3\obj\Debug\priconfig.xml
+C:\Users\asif\Desktop\App3\App3\obj\Debug\priconfig.xml.intermediate
+C:\Users\asif\Desktop\App3\App3\obj\Debug\layout.resfiles
+C:\Users\asif\Desktop\App3\App3\obj\Debug\layout.resfiles.intermediate
+C:\Users\asif\Desktop\App3\App3\obj\Debug\resources.resfiles
+C:\Users\asif\Desktop\App3\App3\obj\Debug\resources.resfiles.intermediate
+C:\Users\asif\Desktop\App3\App3\obj\Debug\pri.resfiles
+C:\Users\asif\Desktop\App3\App3\obj\Debug\pri.resfiles.intermediate
+C:\Users\asif\Desktop\App3\App3\obj\Debug\qualifiers.txt
+C:\Users\asif\Desktop\App3\App3\obj\Debug\qualifiers.txt.intermediate
+C:\Users\asif\Desktop\App3\App3\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\asif\Desktop\App3\App3\obj\Debug\ProjectArchitectures.txt
